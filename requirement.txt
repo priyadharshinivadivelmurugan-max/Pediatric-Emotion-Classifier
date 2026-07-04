@@ -1,0 +1,48 @@
+# ==========================
+# Deep Learning
+# ==========================
+tensorflow>=2.12.0
+keras>=2.12.0
+h5py
+
+# ==========================
+# Audio Processing
+# ==========================
+librosa>=0.10.1
+sounddevice
+soundfile
+noisereduce
+scipy
+numpy
+
+# ==========================
+# Data Processing
+# ==========================
+pandas
+scikit-learn
+
+# ==========================
+# Image Processing
+# ==========================
+opencv-python
+Pillow
+matplotlib
+
+# ==========================
+# Backend
+# ==========================
+Flask
+Flask-Cors
+requests
+twilio
+
+# ==========================
+# Frontend
+# ==========================
+kivy
+plyer
+
+# ==========================
+# Utilities
+# ==========================
+python-dotenv
